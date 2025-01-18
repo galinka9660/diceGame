@@ -1,0 +1,8 @@
+Es gibt 2 Spieler in einem Spiel.
+Man spielt mit einem Wuerfel.
+Wenn die gleiche Zahl gewuerfelt wird, spielt man nochmal.
+
+Spieler soll eine Nummer haben.
+Functionen: roll_dice(), find_winner()
+
+Erweitern zu mehrere Spieler
